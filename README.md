@@ -69,8 +69,9 @@ Gitee 地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 
 ## 本系列视频链接地址速查
 
-敬请期待……
-https://www.bilibili.com/video/BV1TNGZ6uEGQ/
+**【整体介绍】零基础上手 Skill：从 0 到交付的全链路闭环实战。本系列按 认知 → 编写 → 实战 → 交付闭环 串起一条可走完的路径。源文件均开源免费。**      
+https://youtu.be/2FUWZ4jCc2U       
+https://www.bilibili.com/video/BV1TNGZ6uEGQ/       
 
 ---
 
