@@ -70,6 +70,7 @@ Gitee 地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 ## 本系列视频链接地址速查
 
 敬请期待……
+https://www.bilibili.com/video/BV1TNGZ6uEGQ/
 
 ---
 
