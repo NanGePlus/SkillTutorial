@@ -73,10 +73,10 @@ Gitee 地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 YouTube频道对应视频: https://youtu.be/2FUWZ4jCc2U  
 B站频道对应视频: https://www.bilibili.com/video/BV1TNGZ6uEGQ/  
 
-**【EP01_什么是Skill，建立对Skill的整体认知】零基础上手 Skill：从 0 到交付的全链路闭环实战。认知 → 编写 → 实战 → 交付闭环完整路径**
-YouTube频道对应视频: https://youtu.be/kmnOE4CY4o8
-B站频道对应视频: 
-对应的文件夹：01_***
+**【EP01_什么是Skill，建立对Skill的整体认知】零基础上手 Skill：从 0 到交付的全链路闭环实战。认知 → 编写 → 实战 → 交付闭环完整路径**        
+YouTube频道对应视频: https://youtu.be/kmnOE4CY4o8       
+B站频道对应视频: https://www.bilibili.com/video/BV1fdVN6jEc4/            
+对应的文件夹：01_***         
 
 ---
 
