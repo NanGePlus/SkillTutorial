@@ -80,7 +80,7 @@ B站频道对应视频: https://www.bilibili.com/video/BV1fdVN6jEc4/
 
 **【EP02_如何把Skill写清楚写好用(附实战技巧)】零基础上手 Skill：从 0 到交付的全链路闭环实战。认知 → 编写 → 实战 → 交付闭环完整路径**        
 YouTube频道对应视频: https://youtu.be/WzmoX4pXfUI       
-B站频道对应视频: https://www.bilibili.com/video/BV1fdVN6jEc4/            
+B站频道对应视频: https://www.bilibili.com/video/BV1sMG26qEP1/            
 对应的文件夹：02_***     
 
 ---
