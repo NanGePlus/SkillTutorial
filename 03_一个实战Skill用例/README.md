@@ -13,8 +13,8 @@
 
 ```
 7x24小时在线的私人数字员工：飞书+n8n+AI=你的「效率特种兵」，同样的架构，换Prompt，搞定N个场景。拖拽搭建｜产品/运营/自由职业者的效率外挂
-- YouTube频道对应视频:https://youtu.be/mu1E7UC0HXc          
-- B站频道对应视频:https://www.bilibili.com/video/BV1eaokBDEv8/
+- YouTube频道对应视频: [https://youtu.be/mu1E7UC0HXc](https://youtu.be/mu1E7UC0HXc)              
+- B站频道对应视频: [https://www.bilibili.com/video/BV1eaokBDEv8/](https://www.bilibili.com/video/BV1eaokBDEv8/) 
 ```
 
 ---
