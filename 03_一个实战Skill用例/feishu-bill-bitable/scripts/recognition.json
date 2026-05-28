@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "amount": -10.9,
+    "currency": "CNY",
+    "merchant": "自测-瑞幸咖啡",
+    "date": "2026-05-09",
+    "time": "16:03",
+    "transaction_type": "支出",
+    "category": "餐饮",
+    "payment_method": "微信支付",
+    "description": "脚本自测写入",
+    "raw_text": "selftest",
+    "confidence": "高"
+  }
