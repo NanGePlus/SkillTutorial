@@ -85,7 +85,7 @@ B站频道对应视频: https://www.bilibili.com/video/BV1sMG26qEP1/
 
 **【EP03_将一个真实业务场景落成可运行的Skill】零基础上手 Skill：从 0 到交付的全链路闭环实战。认知 → 编写 → 实战 → 交付闭环完整路径**      
 YouTube频道对应视频: https://youtu.be/sDo8RMefMwQ          
-B站频道对应视频: https://www.bilibili.com/video/BV1sMG26qEP1/             
+B站频道对应视频: https://www.bilibili.com/video/BV1acVs6dEdj/                 
 对应的文件夹：03_***     
 
 ---
