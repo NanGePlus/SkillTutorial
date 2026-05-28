@@ -11,11 +11,11 @@
 
 在体验本期应用案例之前，建议先参考如下这期案例的分享。两者实现的功能完全一致，只是采用了不同的技术实现方案：
 
-```
+
 7x24小时在线的私人数字员工：飞书+n8n+AI=你的「效率特种兵」，同样的架构，换Prompt，搞定N个场景。拖拽搭建｜产品/运营/自由职业者的效率外挂
 - YouTube频道对应视频: [https://youtu.be/mu1E7UC0HXc](https://youtu.be/mu1E7UC0HXc)              
 - B站频道对应视频: [https://www.bilibili.com/video/BV1eaokBDEv8/](https://www.bilibili.com/video/BV1eaokBDEv8/) 
-```
+
 
 ---
 
