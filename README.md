@@ -88,7 +88,7 @@ YouTube频道对应视频: https://youtu.be/sDo8RMefMwQ
 B站频道对应视频: https://www.bilibili.com/video/BV1acVs6dEdj/                 
 对应的文件夹：03_***     
 
-**【EP04_如何交付运行Skill 附实操演示】零基础上手 Skill：从 0 到交付的全链路闭环实战。认知 → 编写 → 实战 → 交付闭环完整路径**       
+**【EP04_如何交付运行Skill 附实操演示（OpenClaw和WorkBuddy）】零基础上手 Skill：从 0 到交付的全链路闭环实战。认知 → 编写 → 实战 → 交付闭环完整路径**       
 YouTube频道对应视频: https://youtu.be/Z8LMvhRXb3k               
 B站频道对应视频: https://www.bilibili.com/video/BV1acVs6dEdj/                 
 对应的文件夹：04_***    
